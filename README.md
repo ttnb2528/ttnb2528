@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<p align="center">👨‍💻 Here is my portfolio: <a href="https://portfolio-wine-psi-88.vercel.app/" target="_blank">https://portfolio-wine-psi-88.vercel.app/</a></p>
+👨‍💻 Here is my portfolio: <a href="https://portfolio-wine-psi-88.vercel.app/" target="_blank">https://portfolio-wine-psi-88.vercel.app/</a>
 
 - 🌱 I’m currently learning **MERN Stack**
 
