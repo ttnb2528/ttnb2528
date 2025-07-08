@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-👨‍💻 Here is my portfolio: <a href="https://portfolio-wine-psi-88.vercel.app/" target="_blank">https://portfolio-wine-psi-88.vercel.app/</a>
+- 👨‍💻 Here is my portfolio: <a href="https://portfolio-wine-psi-88.vercel.app/" target="_blank">https://portfolio-wine-psi-88.vercel.app/</a>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -10,6 +10,14 @@
 - 📫 How to reach me **thientan2812@gmail.com**
 
 - ⚡ Fun fact **I like to research new things**
+  
+- ❤️ Here is my CV
+
+<p align="center">
+  <a href="https://your-cloudinary-link.com/my-cv.pdf" target="_blank">
+    <img src="https://res.cloudinary.com/thientan/image/upload/CV_image_fbt5n2.png" alt="My CV Preview" width="500"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
