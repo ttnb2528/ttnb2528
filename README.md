@@ -14,7 +14,7 @@
 - ❤️ Here is my CV
 
 <p align="center">
-  <a href="https://your-cloudinary-link.com/my-cv.pdf" target="_blank">
+  <a href="https://res.cloudinary.com/thientan/image/upload/CV_image_fbt5n2.png" target="_blank">
     <img src="https://res.cloudinary.com/thientan/image/upload/CV_image_fbt5n2.png" alt="My CV Preview" width="500"/>
   </a>
 </p>
